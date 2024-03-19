@@ -1,0 +1,25 @@
+/** @format */
+.bg-login {
+	background: rgba(0, 0, 0, 0.5) url(../../../public/backgroundLogin.jpeg);
+	background-position: center center;
+	background-blend-mode: darken;
+	background-size: cover;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-color: transparent;
+	padding: 32px;
+}
+
+.ant-btn {
+	width: 300px;
+}
+
+.ant-form {
+	background-color: #fff;
+	padding: 70px 0;
+	border-radius: 20px;
+}
+
+.ant-row {
+	justify-content: center !important;
+}

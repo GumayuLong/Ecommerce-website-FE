@@ -68,3 +68,21 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+List of Library
+1. Bootstrap 4.3.1
+2. antd
+3. axios
+4. dayjs
+5. font-awesome
+6. node-sass
+7. react
+8. react-dom
+9. react-redux
+10. react-router-dom
+11. redux
+12. sass
+13. @fontawesome/free-brands-svg-icons 6.5.1
+14. @fontawesome/free-regular-svg-icons 6.5.1
+15. @fontawesome/free-solid-svg-icons 6.5.1
+16. @fontawesome/react-fontawesome
